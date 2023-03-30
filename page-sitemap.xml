@@ -27,6 +27,48 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/frekuensi</loc>
+		<lastmod>2023-03-30T09:15:37+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_3575-q2rfk9aiyyjzyz395jikocbmvbr4x5nfubt5nk83g0.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/format</loc>
+		<lastmod>2023-03-30T09:12:11+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_34642-q3fzkx3llm48j1zshfdgmzzucy1rf2cmbryp5zhd2o.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/durasi</loc>
+		<lastmod>2023-03-30T09:11:09+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_1634-scaled-q2rfgu5o3nvfq2244kag3pe91um1wt2lpecjsbao34.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/suara-inap</loc>
+		<lastmod>2023-03-30T09:08:18+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_9382-scaled-q3fnpd8exitxkd1c345kze2v0feb7dzz7larnzf1bk.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/suara-tarik</loc>
+		<lastmod>2023-03-30T09:06:30+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_3405-q3fzfyi9j3br9577ga6ch929hqi0sknmb80fzeu5ww.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/suara-panggil</loc>
+		<lastmod>2023-03-30T09:05:40+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_93841-scaled-q3fnoi7qnzngx8ae48qw73wnepn75dku3brqtup10w.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/tentang</loc>
 		<lastmod>2023-03-29T07:20:01+01:00</lastmod>
 		<image:image>
@@ -86,32 +128,8 @@
 		<lastmod>2023-03-29T05:24:45+01:00</lastmod>
 	</url>
 	<url>
-		<loc>/suara-panggil</loc>
-		<lastmod>2023-03-24T12:08:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/suara-tarik</loc>
-		<lastmod>2023-03-24T12:08:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/suara-inap</loc>
-		<lastmod>2023-03-24T12:08:01+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/waktu</loc>
 		<lastmod>2023-03-13T08:52:08+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/frekuensi</loc>
-		<lastmod>2023-03-13T08:45:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/format</loc>
-		<lastmod>2023-03-13T08:43:17+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/durasi</loc>
-		<lastmod>2023-03-13T08:40:51+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lokasi</loc>
