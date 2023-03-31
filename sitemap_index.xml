@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//cn.suarawalet.id/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>https://cn.suarawalet.id/post-sitemap.xml</loc>
 		<lastmod>2023-03-29T08:15:42+01:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>https://cn.suarawalet.id/page-sitemap.xml</loc>
 		<lastmod>2023-03-31T04:51:51+01:00</lastmod>
 	</sitemap>
 </sitemapindex>
