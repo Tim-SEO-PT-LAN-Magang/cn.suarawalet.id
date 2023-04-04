@@ -1,63 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//cn.suarawalet.id/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/xin-wen</loc>
+		<loc>https://cn.suarawalet.id/xin-wen</loc>
 	</url>
 	<url>
-		<loc>/zai-yan-zi-lou-zhong-shi-yong-gao-yin-la-ba-hu-huan-yan-zi.html</loc>
+		<loc>https://cn.suarawalet.id/zai-yan-zi-lou-zhong-shi-yong-gao-yin-la-ba-hu-huan-yan-zi.html</loc>
 		<lastmod>2023-04-03T00:15:07+01:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_8669-scaled-e1677469076789-300x300.jpg</image:loc>
+			<image:loc>https://cn.suarawalet.id/wp-content/uploads/2023/02/IMG_8669-scaled-e1677469076789-300x300.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_9384-300x169.jpg</image:loc>
+			<image:loc>https://cn.suarawalet.id/wp-content/uploads/2023/02/IMG_9384-300x169.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/liao-jie-yan-zi-jian-zhu-zhong-yan-zi-sheng-yin-bian-hua-mo-shi-de-zhong-yao-xing.html</loc>
+		<loc>https://cn.suarawalet.id/liao-jie-yan-zi-jian-zhu-zhong-yan-zi-sheng-yin-bian-hua-mo-shi-de-zhong-yao-xing.html</loc>
 		<lastmod>2023-04-03T00:14:39+01:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_86521-scaled-e1680059087816.jpg</image:loc>
+			<image:loc>https://cn.suarawalet.id/wp-content/uploads/2023/02/IMG_86521-scaled-e1680059087816.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/liao-jie-yan-zi-jin-ru-jian-zhu-wu-de-ji-xiang-yi-ji-ru-he-zu-zhi-ta-men-de-dao-lai.html</loc>
+		<loc>https://cn.suarawalet.id/liao-jie-yan-zi-jin-ru-jian-zhu-wu-de-ji-xiang-yi-ji-ru-he-zu-zhi-ta-men-de-dao-lai.html</loc>
 		<lastmod>2023-04-03T00:14:29+01:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_9875-1024x683.jpg</image:loc>
+			<image:loc>https://cn.suarawalet.id/wp-content/uploads/2023/02/IMG_9875-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-13.49.33-e1677466287507-1024x788.jpeg</image:loc>
+			<image:loc>https://cn.suarawalet.id/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-13.49.33-e1677466287507-1024x788.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/zai-yan-zi-jian-zhu-zhong-yong-you-xiao-de-la-che-sheng-zeng-jia-yan-zi-de-chan-chao-liang.html</loc>
+		<loc>https://cn.suarawalet.id/zai-yan-zi-jian-zhu-zhong-yong-you-xiao-de-la-che-sheng-zeng-jia-yan-zi-de-chan-chao-liang.html</loc>
 		<lastmod>2023-04-03T00:14:19+01:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_8482-1024x575.jpg</image:loc>
+			<image:loc>https://cn.suarawalet.id/wp-content/uploads/2023/02/IMG_8482-1024x575.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_3503-1024x576.jpg</image:loc>
+			<image:loc>https://cn.suarawalet.id/wp-content/uploads/2023/02/IMG_3503-1024x576.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/yan-zi-jian-zhu-zhong-de-yan-zi-hu-jiao-ji-shu.html</loc>
+		<loc>https://cn.suarawalet.id/yan-zi-jian-zhu-zhong-de-yan-zi-hu-jiao-ji-shu.html</loc>
 		<lastmod>2023-04-03T00:14:08+01:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_1634-1024x575.jpg</image:loc>
+			<image:loc>https://cn.suarawalet.id/wp-content/uploads/2023/02/IMG_1634-1024x575.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_3575-1024x576.jpg</image:loc>
+			<image:loc>https://cn.suarawalet.id/wp-content/uploads/2023/02/IMG_3575-1024x576.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/zhao-chu-yan-zi-huo-dong-de-di-dian-he-shi-jian-biao.html</loc>
+		<loc>https://cn.suarawalet.id/zhao-chu-yan-zi-huo-dong-de-di-dian-he-shi-jian-biao.html</loc>
 		<lastmod>2023-04-03T00:12:02+01:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_3479-1024x576.jpg</image:loc>
+			<image:loc>https://cn.suarawalet.id/wp-content/uploads/2023/02/IMG_3479-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/burung-walet-5.jpg</image:loc>
+			<image:loc>https://cn.suarawalet.id/wp-content/uploads/2023/02/burung-walet-5.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
